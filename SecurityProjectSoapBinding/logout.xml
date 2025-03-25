@@ -8,7 +8,7 @@
       <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
     </con:settings>
     <con:encoding>UTF-8</con:encoding>
-    <con:endpoint>http://localhost:8081/SecurityProject/services/SecurityProject</con:endpoint>
+    <con:endpoint>http://localhost:8081/SecurityProject/services/SecurityProject1</con:endpoint>
     <con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservices.SmartBear.com" xmlns:sec="http://securityproject.SmartBear.com">
    <soapenv:Header/>
    <soapenv:Body>
